@@ -4,7 +4,7 @@ namespace Miaoxing\Api;
 
 use Miaoxing\Plugin\BasePlugin;
 
-class Plugin extends BasePlugin
+class ApiPlugin extends BasePlugin
 {
     /**
      * {@inheritdoc}
