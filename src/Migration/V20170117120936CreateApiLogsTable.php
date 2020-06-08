@@ -2,7 +2,7 @@
 
 namespace Miaoxing\Api\Migration;
 
-use Miaoxing\Services\Migration\BaseMigration;
+use Wei\Migration\BaseMigration;
 
 class V20170117120936CreateApiLogsTable extends BaseMigration
 {
