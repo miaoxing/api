@@ -10,7 +10,7 @@
     "miaoxing/plugin": "dev-master@dev"
   },
   "require-dev": {
-    "miaoxing/coding-standards": "^4.1.1"
+    "miaoxing/coding-standards": "^5.0.0@beta"
   },
   "autoload": {
     "psr-4": {
@@ -23,10 +23,5 @@
     }
   },
   "minimum-stability": "dev",
-  "prefer-stable": true,
-  "extra": {
-    "branch-alias": {
-      "dev-master": "2.0.x-dev"
-    }
-  }
+  "prefer-stable": true
 }
