@@ -8,10 +8,10 @@
   ],
   "license": "MIT",
   "require": {
-    "miaoxing/plugin": "^0.4.2"
+    "miaoxing/plugin": "^0.4.3"
   },
   "require-dev": {
-    "miaoxing/dev": "^6.3.3"
+    "miaoxing/dev": "^6.3.4"
   },
   "autoload": {
     "psr-4": {
