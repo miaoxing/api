@@ -1,3 +1,13 @@
+## [0.1.65](https://github.com/miaoxing/api/compare/v0.1.64...v0.1.65) (2024-11-30)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/plugin:** upgrade from `0.17.0` to `0.17.1`
+
 ## [0.1.64](https://github.com/miaoxing/api/compare/v0.1.63...v0.1.64) (2024-11-01)
 
 
